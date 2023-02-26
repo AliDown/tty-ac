@@ -3,6 +3,7 @@
 FiveM AntiCheat with over 100+ Fetures detecting all known menus
 
 Homepage: https://tetstentfry.com
+Discord:  https://discord.com/invite/hFKdgPVfvh
 
 TTY AC Support QBcore, ESX & VRP ✅
 
