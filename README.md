@@ -75,11 +75,11 @@ Your Data is Secured we do not fetch any Data from your Server ✅
 - Admin Menu
 
 
-#LOGS
+# LOGS
 
 Fully Logs everything on Discord and Console with all needed Information's!
 
 
-#Anti Injection
+# Anti Injection
 
 TTY Injection Protection is a system that installs a Anti Injection Script on every resource at your Server. Its like a Box around your Resource that Protects everything and if the Box gets attacked the Box will Notify TTYAC to Ban the Player! Easy
